@@ -1,0 +1,13 @@
+
+
+
+#userOutput {
+    border: 1px solid black;
+    width: 10.2rem;
+    padding: 0.6rem;
+    margin-left: 0.6rem;
+}
+
+#saida {
+    display: flex;
+}
